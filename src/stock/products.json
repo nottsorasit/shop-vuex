@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "แอปเปิล",
+    "price": 15,
+    "imgUrl": "https://img.freepik.com/free-photo/red-apple-with-green-leaf-isolated-white_80510-518.jpg?size=338&ext=jpg&ga=GA1.2.1347944333.1613553879"
+  },
+  {
+    "id": 2,
+    "title": "กล้วย",
+    "price": 20,
+    "imgUrl": "https://img.freepik.com/free-photo/bananas-white-background_1187-1671.jpg?size=338&ext=jpg&ga=GA1.2.1347944333.1613553879"
+  },
+  {
+    "id": 3,
+    "title": "องุ่น",
+    "price": 30,
+    "imgUrl": "https://img.freepik.com/free-photo/green-red-grape-isolated-white_1232-1957.jpg?size=626&ext=jpg&ga=GA1.2.1347944333.1613553879"
+  },
+  {
+    "id": 4,
+    "title": "มะม่วง",
+    "price": 10,
+    "imgUrl": "https://img.freepik.com/free-photo/freshness-food-life-fruit-yellow_1203-5467.jpg?size=626&ext=jpg&ga=GA1.2.1347944333.1613553879"
+  },
+  {
+    "id": 5,
+    "title": "ส้ม",
+    "price": 35,
+    "imgUrl": "https://img.freepik.com/free-photo/orange-white-white_144627-16571.jpg?size=626&ext=jpg&ga=GA1.2.1347944333.1613553879"
+  },
+  {
+    "id": 6,
+    "title": "มังคุด",
+    "price": 40,
+    "imgUrl": "https://img.freepik.com/free-photo/mangosteens-queen-fruits-ripe-mangosteen-fruit-isolated-white-background_1205-1708.jpg?size=626&ext=jpg&ga=GA1.2.1347944333.1613553879"
+  }
+]
